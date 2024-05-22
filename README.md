@@ -12,3 +12,5 @@ pip install -r requirements.txt
 # Customization
  - Models can be tuned or altered in models.py
  - Plot can be customized in visualize.py
+
+![image](https://github.com/daven-c/MNIST2VEC/assets/52761945/2682d648-96ca-43fc-a3da-d832a20a34d0)
