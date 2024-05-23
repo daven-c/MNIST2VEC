@@ -10,6 +10,7 @@ pip install -r requirements.txt
 2. Visualize the embeddings using visualize.py
 
 # Customization
+ - Settings can be changed in config.cfg
  - Models can be tuned or altered in models.py
  - Plot can be customized in visualize.py
 
